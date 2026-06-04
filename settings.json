@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "MinecraftBot",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mbaree.aternos.me:20891",
+    "ip": "mbaree.aternos.me",
     "port": 20891,
     "version": "1.21.1"
   },
